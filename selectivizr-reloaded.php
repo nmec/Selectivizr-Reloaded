@@ -16,6 +16,6 @@ function Selectivizr_jQuery() {
 add_action('wp_head', 'Selectivizr');
 function Selectivizr() { ?>
 	<!--[if (gte IE 6)&(lte IE 8)]>
-		<script src="<?php echo plugins_url('/js/selectivizr.js'); ?>"></script>
+		<script src="<?php echo plugins_url('/js/selectivizr.min.js?ver=1.0.2'); ?>"></script>
 	<![endif]-->
 <?php } ?>
