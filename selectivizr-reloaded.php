@@ -1,7 +1,7 @@
 <?php
 /*************************************************************************
 Plugin Name:	Selectivizr Reloaded
-Plugin URI:		http://nmecdesign.com
+Plugin URI:		https://github.com/nmec/Selectivizr-Reloaded
 Description:	A jQuery polyfill to add CSS3 Selector support for IE8 & earlier.
 Version:		1.0
 Author:			Jonathan Warren
